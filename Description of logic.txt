@@ -1,0 +1,17 @@
+By Arbaz khan
+JSON file
+1. information about the products with reference to an ecommerce website.
+2. created one object product "elecronics" which contains 2 arrays "mobiles" and "televisions".
+3. followed key value pair in both arrays contains product neccesary specs.
+
++++++++++++++++++++++
+
+Javascript file
+1.this contains the json data which is assigned to varible.
+2.and I've created 3 different functions
+ a. function todisplayall() --> which is to display all the products information by looping through both the arrays.
+ b. function particularentrybyname() --> which is by displaying the partcular name of the product by index of the array and name.
+						Televisions[0].Modelname
+ c. function particularentrybyindex()--> which is by displaying a the entry by the index of nested arrays.
+						Mobiles[0].Color[1]
+	

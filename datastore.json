@@ -1,0 +1,53 @@
+{
+"title":"Products data store for a Ecommerce platform",
+"Electronics": {
+		"Mobiles": [
+			  {
+			   "Company1" : "Apple",
+			   "Modelname": "iPhone8plus",
+  			   "Color"    : "Space gray",
+			   "Displaysize":"5.5inch",
+			   "Displaytype":"Retina Display",
+			   "Camera"    : "12MP+12MP",
+			   "Battery"   : "3250mAH",
+			   "Price"     : 72468
+			   },
+			   {
+			   "Company2" : "Motorola",
+			   "Modelname": "Motog5Splus",
+  			   "Color"    : "Dark gray",
+			   "Displaysize":"5.5inch",
+			   "Displaytype":"TFT IPS",
+			   "Camera"    : "13MP+13MP",
+			   "Battery"   : "3250mAH",
+			   "Price"     : 16000
+			   }
+			],
+
+		"Televisions": [
+			        {
+				"Company1" : "Samsung",
+			   	"Modelname": "LED 49M6300",
+  			   	"Color"    : "Dark Titan",
+			   	"Displaysize":"123cm",
+			   	"HDMI"     : "3side",
+				"USB"	   : "2side",
+				"Price"    : 59999
+				},
+				{
+				"Company2" : "Sony",
+			   	"Modelname": "LED LD-49X700VE",
+  			   	"Color"    : "Black",
+			   	"Displaysize":"123.2cm",
+			   	"HDMI"     : 3,
+				"USB"	   : 3,
+				"Price"    : 59999
+				}
+			   ]
+	}
+}
+
+			
+		
+
+				
